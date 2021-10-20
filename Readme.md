@@ -73,7 +73,7 @@
     </p>
     <p>
     <footer>
-        <address>Tom Mereles 👨🏻‍💻</address>
+        <address>👨🏻‍💻 Tom Mereles</address>
     </footer>
     </p>
 </body>
