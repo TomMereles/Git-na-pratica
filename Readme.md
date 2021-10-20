@@ -39,6 +39,10 @@
         projeto. Uma forma muito usada é o git commit -m “descrição das atualizações do projeto” onde o -m é uma flag
         que aponta para a mensagem de descrição.
     </p>
+    <p>
+    <h3><strong>✔️Git remote</strong></h3>
+        Nada mais é do que apontar o caminho(repositório) para aonde você ira subir o seu projeto, por exemplo (git remote add origin "endereço do repositório"). 
+    </p>
     <h3><strong>✔️Git push</strong></h3>
     <p>
         Por fim precisamos subir essas modificações no nosso repositório remoto, para isso basta utilizar o comando git
