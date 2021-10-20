@@ -73,7 +73,7 @@
     </p>
     <p>
     <footer>
-        <address>Rua Abell Scuissiato - 2829 - Atuba/PR</address>
+        <address>Tom Mereles 👨🏻‍💻</address>
     </footer>
     </p>
 </body>
