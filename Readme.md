@@ -60,6 +60,10 @@
         possível ver todas as branches presentes no repositório remoto e se você quiser criar uma nova branch basta
         utilizar este comando: git branch (branch_name).
     </p>
+    <h3><strong>✔️Git stash</strong></h3>
+    <p>
+        Git stash arquiva (ou faz o stash) de alterações que você fez na cópia de trabalho durante um determinado período, para que você possa trabalhar em outra coisa, depois voltar e fazer a reaplicação mais tarde. O stashing é útil quando você precisa alternar com rapidez o contexto e trabalhar em outra coisa, mas está no meio da alteração de código e não está pronto para fazer commit.
+    </p>
     <h3><strong>✔️Git checkout</strong></h3>
     <p>
         É o comando utilizado para trocar de branch passando o nome da branch destino no final do comando. Caso a flag
@@ -70,10 +74,6 @@
         Então o merge é local sempre. Quando você deseja atualizar outro repositório você traz seu conteúdo para o seu
         repositório local atual, faz o merge e manda de volta o conteúdo do seu repositório para o repositório original,
         possivelmente remoto.
-    </p>
-    <h3><strong>✔️Git stash</strong></h3>
-    <p>
-        git stash arquiva (ou faz o stash) de alterações que você fez na cópia de trabalho durante um determinado período, para que você possa trabalhar em outra coisa, depois voltar e fazer a reaplicação mais tarde. O stashing é útil quando você precisa alternar com rapidez o contexto e trabalhar em outra coisa, mas está no meio da alteração de código e não está pronto para fazer commit.
     </p>
     <p>
     <footer>
