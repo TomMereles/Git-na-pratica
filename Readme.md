@@ -65,7 +65,7 @@
     </p>
     <p>
     <footer>
-        <address>👨🏻‍💻 Tom-Mereles</address>
+        <a href="https://github.com/TomMereles"><address>👨🏻‍💻 TomMereles</address> </a>
     </footer>
     </p>
 </body>
